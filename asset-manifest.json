@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/crypto-hj/static/css/main.31d6cfe0.css",
-    "main.js": "/crypto-hj/static/js/main.fd3f789a.js",
+    "main.js": "/crypto-hj/static/js/main.341b1011.js",
     "index.html": "/crypto-hj/index.html",
-    "main.fd3f789a.js.map": "/crypto-hj/static/js/main.fd3f789a.js.map"
+    "main.341b1011.js.map": "/crypto-hj/static/js/main.341b1011.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.fd3f789a.js"
+    "static/js/main.341b1011.js"
   ]
 }
