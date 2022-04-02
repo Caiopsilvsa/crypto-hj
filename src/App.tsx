@@ -1,5 +1,5 @@
 import {
-  BrowserRouter,
+  HashRouter,
   Routes,
   Route,
 } from "react-router-dom";
@@ -10,13 +10,13 @@ import {Page} from './Page'
 function App() {
   return (
   <>
-  <BrowserRouter> 
+  <HashRouter> 
     <GlobalStyle/> 
      <Routes>
-       <Route path="/" element={<Page/>}></Route>
+       <Route path="https://Caiopsilvsa.github.io/crypto-hj/" element={<Page/>}></Route>
      </Routes>
 
-  </BrowserRouter>
+  </HashRouter>
    
   </> 
   );
